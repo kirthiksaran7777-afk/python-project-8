@@ -42,3 +42,12 @@ Improved support for future sales forecasting and business planning.
 Conclusion
 
 The Sales Forecasting Analysis System provides a comprehensive approach to understanding historical sales data through Exploratory Data Analysis. By identifying trends, seasonal variations, and product performance patterns, the system enables organizations to make data-driven decisions. The insights generated from this analysis can significantly improve inventory control, marketing strategies, and overall business planning. Furthermore, the project establishes a strong foundation for implementing advanced forecasting techniques in the future, leading to more accurate sales predictions and enhanced business performance.
+<img width="1047" height="550" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/21280ee1-f813-47f0-ac7e-c93b100bd2d5" />
+<img width="1042" height="373" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/609168ef-439d-4d97-88c4-5d159349108c" />
+<img width="1039" height="411" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/29949461-a036-4c51-a85c-f76452369e05" />
+<img width="1061" height="387" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/b2780d58-1951-473b-b4b3-b84ac7928e6e" />
+<img width="1025" height="633" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/e23e3170-2c0d-4448-9ef3-66402af249c2" />
+<img width="1030" height="625" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/66d1e69d-c998-45a3-9c7d-d96f215467f5" />
+<img width="1042" height="816" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/a0fee7d7-dfc8-4ac8-a701-c0fd21badecd" />
+
+
